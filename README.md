@@ -2,7 +2,7 @@
 Test technique de création d'une API et entraînement d'un modèle
 
 
-1) Cloner ce répository: git clone
+1) Cloner ce répository avec la commande: git clone https://github.com/Armellectx/detection-wild-animals.git
 
 2) Dans un terminal, placer vous dans le répertoire de l’application et installer les package necessaire à l’aide de la commande pip install -r “requirements.txt”.
 Vous pouvez créer un environnement virtuel python à votre convenance.
