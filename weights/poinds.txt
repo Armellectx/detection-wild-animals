@@ -1,0 +1,1 @@
+Les poids d'entraînement et des courbes de résultat sont présents dans le dossier weights/
