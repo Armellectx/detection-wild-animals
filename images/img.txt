@@ -1,0 +1,1 @@
+Veuillez charger les images à détecter dans le répertoire images
